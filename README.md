@@ -13,7 +13,7 @@
 
   <a href="https://www.instagram.com/shpark010/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"></a>
     <a href="https://shpark010.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=plastic&logo=Storyblok&logoColor=white"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"></a>
+    <a href="https://succulent-dime-62e.notion.site/1317038f5647470c8992f1c3162c42ea?v=e976fe356c3340579dc479c6d4e22438" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"></a>
   
 
   <br/> 
